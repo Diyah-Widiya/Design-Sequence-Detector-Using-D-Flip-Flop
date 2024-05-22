@@ -3,7 +3,7 @@ This document will discuss how to create a sequence detector system for the numb
 # General Description
 
 Sequence Detector to detect the number 11 within 2 clock cycles. The following is the FSM design that has been created. After applying the K-map method, the equations obtained are as follows:
-- `D1 = w * y1̅ * y2̅`
+- `D1 = w * ~y1*~y2
 - `D2 = w * y1 + w * y2`
 - `z = y2`
 
