@@ -9,5 +9,5 @@ Sequence Detector to detect the number 11 within 2 clock cycles. The following i
 
 These equations are then implemented into Verilog code.
 
-![FSM Design]([path/to/your/image.png](https://github.com/Diyah-Widiya/Design-Sequence-Detector-Using-D-Flip-Flop/blob/main/image.png))
+![FSM Design](image.png)
 
